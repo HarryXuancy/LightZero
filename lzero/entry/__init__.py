@@ -10,3 +10,6 @@ from .train_reuse import train_reuse
 from .train_mcma import train_mcma
 from .train_mcmaez import train_mcmaez
 from .train_nrma import train_nrma
+from .train_marf2 import train_marf2
+from .train_marf05 import train_marf05
+from .train_manore import train_manore
